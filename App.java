@@ -2,6 +2,6 @@ package com.example;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello from Maven + Java main Rachana sample!");
+        System.out.println("Assignment No 7 - Hello from Maven + Java Project main Vedant Kengale sample!");
     }
 }
